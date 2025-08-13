@@ -1,4 +1,4 @@
-import { Download, Calendar, MapPin, Building } from "lucide-react"
+import { Download, MapPin, Building } from "lucide-react"
 import Link from "next/link"
 
 const experience = [

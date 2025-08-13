@@ -1,4 +1,4 @@
-import { Mail, Linkedin, Github, MessageSquare, Calendar } from "lucide-react"
+import { Mail, Github, MessageSquare, Calendar } from "lucide-react"
 import Link from "next/link"
 
 export default function ContactPage() {
@@ -8,17 +8,17 @@ export default function ContactPage() {
         <header className="text-center mb-16">
           <h1 className="text-4xl font-bold mb-4">Get In Touch</h1>
           <p className="text-xl text-muted-foreground">
-            I'm always interested in new opportunities and collaborations. 
-            Let's discuss how we can work together.
+            I&apos;m always interested in new opportunities and collaborations. 
+            Let&apos;s discuss how we can work together.
           </p>
         </header>
 
         <div className="space-y-8">
           <div className="text-center p-8 rounded-lg border">
-            <h2 className="text-2xl font-bold mb-4">Let's Connect</h2>
+            <h2 className="text-2xl font-bold mb-4">Let&apos;s Connect</h2>
             <p className="text-muted-foreground mb-6">
               Whether you have a project in mind, want to discuss potential opportunities, 
-              or just want to say hello, I'd love to hear from you.
+              or just want to say hello, I&apos;d love to hear from you.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
@@ -121,7 +121,7 @@ export default function ContactPage() {
           </div>
 
           <div className="text-center p-8 rounded-lg border">
-            <h2 className="text-xl font-bold mb-4">What I'm Looking For</h2>
+            <h2 className="text-xl font-bold mb-4">What I&apos;m Looking For</h2>
             <div className="grid md:grid-cols-2 gap-6 text-left">
               <div>
                 <h3 className="font-semibold mb-2">Full-time Opportunities</h3>

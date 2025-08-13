@@ -49,7 +49,7 @@ export default function AboutPage() {
             <h2 className="text-2xl font-bold mb-6">My Story</h2>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                I'm a Senior Software Engineer with 7 years of experience designing and delivering scalable, 
+                I&apos;m a Senior Software Engineer with 7 years of experience designing and delivering scalable, 
                 user-centric web applications. My journey has taken me from full-stack development to 
                 specializing in frontend engineering and UX, where I bridge the gap between design and 
                 technical implementation.
@@ -74,13 +74,13 @@ export default function AboutPage() {
                 <h3 className="font-semibold mb-2">Accessibility First</h3>
                 <p className="text-muted-foreground text-sm">
                   I believe digital products should work for everyone, regardless of ability. 
-                  Accessibility isn't an afterthought—it's fundamental to good design.
+                  Accessibility isn&apos;t an afterthought—it&apos;s fundamental to good design.
                 </p>
               </div>
               <div className="p-4 rounded-lg border">
                 <h3 className="font-semibold mb-2">Performance Matters</h3>
                 <p className="text-muted-foreground text-sm">
-                  Fast, responsive experiences aren't just nice to have—they're essential for 
+                  Fast, responsive experiences aren&apos;t just nice to have—they&apos;re essential for 
                   user satisfaction and business success.
                 </p>
               </div>
